@@ -87,7 +87,7 @@
       "product-identifier.product",
       "sku-selector",
       "product-quantity",
-      "flex-layout.row#product-brand",
+      // "flex-layout.row#product-brand",
       "brand-logo",
       "product-assembly-options",
       "product-gifts",
